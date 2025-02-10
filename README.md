@@ -1,8 +1,8 @@
 # Sentinux Proposal Whitepaper  
-**Empowering a Deterministic, Self-Forking Linux OS with AI Governance**  
+**Sentient Linux System: A Deterministic, Self-Forking Linux OS**  
 
 ## Abstract  
-Sentinux is an innovative, open-source Linux project designed to autonomously manage, replicate, and improve itself through deterministic large language model (LLM) software generation. With a focus on self-forking and decentralized operation, Sentinux is built to support diverse niches—ranging from edge computing to autonomous DevOps. This proposal outlines our chosen technology stack, actionable development phases, and our vision for community involvement.  
+Sentinux is an innovative, open-source Linux project designed to autonomously manage, replicate, and improve itself through deterministic large language model (LLM) software generation, able to store generated software/games/music/images/content anything it generates, regardless of the size, in just a handfull of bytes, acheiving compression ratios that seem impossible. With a focus on self-forking and decentralized operation, Sentinux is built to support diverse niches—ranging from edge computing to autonomous DevOps. This proposal outlines our chosen technology stack, actionable development phases, and our vision for community involvement.  
 
 ## 1. Introduction  
 Traditional operating systems rely on static codebases and manual updates. Sentinux challenges this norm by embedding AI-driven governance into the OS itself. By leveraging deterministic LLM outputs and robust virtualization, Sentinux can:  
